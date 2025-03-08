@@ -486,7 +486,7 @@ st.markdown(
             <div class="testimonial-card">
                 <img src="https://media.istockphoto.com/id/1293373291/photo/portrait-of-confident-ethnic-female-doctor.jpg?s=612x612&w=0&k=20&c=CJsw6IgTecJZoBeVXqZdvh2BI-NyVa-8VcQM3fPhbYc=" alt="Dr. Madhu Sagdeo">
                 <h3>Dr. Madhu Sagdeo</h3>
-                <p>"Hygiea is a game-changer in preventive healthcare. Its real-time biomarker analysis is revolutionary, and I’ve already recommended it to my patients. It’s like having a mini lab in your bathroom—convenient, accurate, and empowering"</p>
+                <p>"Hygiea is a game-changer in preventive healthcare. Its real-time biomarker analysis is revolutionary, it will help people to stay more healthy as prevention is better than cure!"</p>
                 <p>⭐⭐⭐⭐⭐</p>
             </div>
             <div class="testimonial-card">
