@@ -492,13 +492,13 @@ st.markdown(
             <div class="testimonial-card">
                 <img src="https://st.depositphotos.com/49005766/54607/i/450/depositphotos_546075462-stock-photo-indian-female-doctor-portrait-south.jpg" alt="Dr. Mohini Singh">
                 <h3>Dr. Mohini Singh</h3>
-                <p>"Hygiea simplifies health monitoring in the most user-friendly way. It’s been a great tool for tracking my hydration and understanding how lifestyle impacts health. A must-have for anyone interested in preventive care!"</p>
+                <p>"Hygiea simplifies health monitoring in the most user-friendly way. It’s is a great tool for tracking hydration and understanding how lifestyle impacts health. A must-have for anyone interested in preventive care!"</p>
                 <p>⭐⭐⭐⭐</p>
             </div>
             <div class="testimonial-card">
                 <img src="https://t4.ftcdn.net/jpg/06/47/16/29/360_F_647162966_SFu8GP6awkeW0OnFnAxPjiGXSoeme4ht.jpg" alt="Dr. Ananya Pandey">
                 <h3>Dr. Ananya Pandey</h3>
-                <p>"Hygiea has been a lifesaver during my exams, helping me monitor hydration and stress levels. It’s amazing how it combines AI and health insights—truly inspiring for the future of medicine!"</p>
+                <p>"Hygiea makes health tracking effortless and intuitive. It’s a powerful yet simple tool for monitoring hydration and gaining insights into how daily habits influence overall well-being!"</p>
                 <p>⭐⭐⭐⭐⭐</p>
             </div>
         </div>
